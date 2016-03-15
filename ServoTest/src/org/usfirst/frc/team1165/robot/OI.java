@@ -1,9 +1,7 @@
 package org.usfirst.frc.team1165.robot;
 
-import edu.wpi.first.wpilibj.buttons.Button;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
-import org.usfirst.frc.team1165.robot.commands.ReportServo;
 import org.usfirst.frc.team1165.robot.commands.SetServoAngle;
 import org.usfirst.frc.team1165.robot.commands.SetServoPosition;
 

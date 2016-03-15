@@ -14,7 +14,7 @@ public class SetServoPosition extends Command
 
 	public SetServoPosition()
 	{
-		requires(Robot.servo);
+		//requires(Robot.servo);
 	}
 
 	// Called just before this Command runs the first time

@@ -18,7 +18,7 @@ public class RobotMap
 	// public static int rangefinderPort = 1;
 	// public static int rangefinderModule = 1;
 	
-	public static int servoChannel = 0;
+	public static int servoChannel = 9;
 	
 	public static String servoSetAngle = "Servo Set Angle";
 	public static String servoSetPosition = "Servo Set Position";

@@ -14,7 +14,7 @@ public class SetServoAngle extends Command
 
 	public SetServoAngle()
 	{
-		requires(Robot.servo);
+		//requires(Robot.servo);
 	}
 
 	// Called just before this Command runs the first time
